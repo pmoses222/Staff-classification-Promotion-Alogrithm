@@ -1,0 +1,2 @@
+# Staff-classification-Promotion-Alogrithm
+This project is created to predict a large dataset of employees in determining their promotion based on carefully selected features or factors like Experience, Qualifications, Age and Foreign Education. The python modules used in this project are Numpy for numeration, Pandas for data manipulation, Seaborn for visualization, Scikit-learn for modeling and predictions.
